@@ -1,0 +1,8 @@
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 950px;
+  margin: 1em auto;
+  border: 1px solid #000;
+}

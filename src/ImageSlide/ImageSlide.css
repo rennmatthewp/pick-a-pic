@@ -1,0 +1,11 @@
+.image-slide {
+  margin: 1em;
+  padding: 1em;
+  width: 800px;
+  height: 500px;
+}
+
+.image-slide--img {
+  max-height: 400px;
+  max-width: 800px;
+}
